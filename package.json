@@ -7,7 +7,7 @@
     "typings": "./index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-pdf.git"
+        "url": "https://github.com/Kargoe-RS-Team/react-native-pdf.git#blobPatch"
     },
     "keywords": [
         "react-component",
